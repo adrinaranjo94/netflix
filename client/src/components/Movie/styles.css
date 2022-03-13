@@ -1,0 +1,27 @@
+.tooltip {
+  visibility: hidden;
+  width: 100%;
+  background-color: #444444;
+  color: #fff;
+  text-align: center;
+  padding: 5px 8px;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1;
+  top: 110%;
+  box-sizing: border-box;
+}
+
+.movie {
+  background-size: 100%;
+  min-width: 178px;
+  height: 100px;
+  margin-right: 10px;
+  border-radius: 8px;
+  background-position: center center;
+  transition: background-size 450ms;
+}
+
+.movie:hover {
+  background-size: 110%;
+}

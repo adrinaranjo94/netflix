@@ -14,6 +14,9 @@ services:
 
       - '3000:3000'
 
+    volumes:
+      - ./client:/app
+      
     depends_on:
 
       - server
@@ -29,6 +32,9 @@ services:
       # Step 5.4 - Add the port that the server application runs on - (port:port).
 
       - '8080:8080'
+
+    volumes:
+      - ./server:/app
 
     depends_on:
 
