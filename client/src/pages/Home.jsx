@@ -1,18 +1,48 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import { Header } from "../components/Header";
-import { Movie } from "../components/Movie";
 import { Row } from "../components/Row";
+import { useAsyncState } from "../core/asyncState";
+import { MoviesService } from "../services/movies";
 
 export const Home = () => {
-  useEffect(() => {}, []);
+  const [categories, setCategories] = useState([
+    "main",
+    "drama",
+    "comedy",
+    "suspense",
+  ]);
+  const [moviesByCategory, setMoviesByCategory] = useAsyncState(null);
+  const [loaded, setLoaded] = useState(false);
+  useEffect(() => {
+    const fetchData = async () => {
+      const { fetchMoviesByCategory } = MoviesService();
+      const auxMovies = {};
+      categories.forEach(async (category, index) => {
+        const responseData = await fetchMoviesByCategory(category);
 
+        auxMovies[category] = responseData.data.movies;
+        if (index === categories.length - 1) {
+          setMoviesByCategory(auxMovies).then((x) => {
+            console.log(auxMovies);
+            setLoaded(true);
+          });
+        }
+      });
+    };
+    fetchData();
+  }, [categories]);
+
+  if (!loaded) {
+    return <div>Loading</div>;
+  }
   return (
     <>
-      <Header />
-      <Row />
-      <Row />
-      <Row />
-      <Row />
+      <Header movie={moviesByCategory[categories[0]][2]} />
+      {loaded &&
+        categories.map((category) => {
+          console.log(moviesByCategory);
+          return <Row movies={moviesByCategory[category]} title={category} />;
+        })}
     </>
   );
 };

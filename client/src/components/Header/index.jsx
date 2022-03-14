@@ -3,12 +3,18 @@ import { Button } from "../Button";
 import { Text } from "../Text";
 import "./styles.css";
 
-export const Header = () => {
+export const Header = ({ movie }) => {
   return (
-    <header className="header">
+    <header
+      className="header"
+      style={{
+        backgroundImage: `url('${movie.backdrop_path}')`,
+        backgroundSize: "cover",
+      }}
+    >
       <div className="header__contents">
         {/* title */}
-        <Text classes="header__title">Test</Text>
+        <Text classes="header__title">{movie.title}</Text>
         {/* 2 buttons */}
         <div className="header__buttons">
           <Button classes="header__button">Play</Button>
@@ -16,7 +22,7 @@ export const Header = () => {
         </div>
         {/* description */}
         <h1 className="header__description">
-          Description
+          {movie.overview}
           {/* {truncate(movie?.overview, 150)} */}
         </h1>
       </div>

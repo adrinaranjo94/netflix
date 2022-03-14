@@ -3,31 +3,15 @@ import { Movie } from "../Movie";
 import { Text } from "../Text";
 import "./styles.css";
 
-export const Row = () => {
+export const Row = ({ movies, title }) => {
   return (
     <div className="row">
-      <Text classes="mainRow">Netflix Originals</Text>
+      <Text classes="mainRow">{title}</Text>
       <div className="row__movies">
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
-        <Movie background="https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg" />
+        {movies &&
+          movies.map((movie) => (
+            <Movie background={movie.backdrop_path} title={movie.title} />
+          ))}
       </div>
     </div>
   );

@@ -13,10 +13,10 @@ const BoxMovie = styled.div`
   }
 `;
 
-export const Movie = ({ classes, background }) => {
+export const Movie = ({ background, title }) => {
   return (
     <BoxMovie className="movie" background={background}>
-      <div className="tooltip">Hola</div>
+      <div className="tooltip">{title || "No title"}</div>
     </BoxMovie>
   );
 };
