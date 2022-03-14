@@ -1,47 +1,38 @@
-import React, { useEffect, useState } from "react";
+import React, { useContext, useEffect } from "react";
 import { Header } from "../components/Header";
 import { Row } from "../components/Row";
-import { useAsyncState } from "../core/asyncState";
+import { MovieContext } from "../context/movieContext";
 import { MoviesService } from "../services/movies";
 
 export const Home = () => {
-  const [categories, setCategories] = useState([
-    "Netflix Originals",
-    "Drama",
-    "Comedy",
-    "Suspense",
-  ]);
-  const [moviesByCategory, setMoviesByCategory] = useAsyncState(null);
-  const [loaded, setLoaded] = useState(false);
+  const { categories, isLoaded, addMoviesToCategory, header, setInfoLoaded } =
+    useContext(MovieContext);
   useEffect(() => {
-    const fetchData = async () => {
-      const { fetchMoviesByCategory } = MoviesService();
-      const auxMovies = {};
-      categories.forEach(async (category, index) => {
-        const responseData = await fetchMoviesByCategory(category);
+    buildHome();
+  }, []);
 
-        auxMovies[category] = responseData.data.movies;
-        if (index === categories.length - 1) {
-          setMoviesByCategory(auxMovies).then((x) => {
-            console.log(auxMovies);
-            setLoaded(true);
-          });
-        }
-      });
-    };
-    fetchData();
-  }, [categories]);
+  const buildHome = () => {
+    const { fetchMoviesByCategory } = MoviesService();
+    Object.keys(categories).forEach(async (category, index, arr) => {
+      const responseData = await fetchMoviesByCategory(category);
+      addMoviesToCategory(category, [...responseData.data.movies]);
+      if (index === arr.length - 1) {
+        setInfoLoaded();
+        console.log(header);
+      }
+    });
+  };
 
-  if (!loaded) {
+  if (!isLoaded) {
     return <div>Loading</div>;
   }
+
   return (
     <>
-      <Header movie={moviesByCategory[categories[0]][2]} />
-      {loaded &&
-        categories.map((category) => {
-          console.log(moviesByCategory);
-          return <Row movies={moviesByCategory[category]} title={category} />;
+      {<Header movie={header || {}} />}
+      {isLoaded &&
+        Object.keys(categories).map((category) => {
+          return <Row movies={categories[category]} title={category} />;
         })}
     </>
   );
