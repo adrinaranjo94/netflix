@@ -11,7 +11,7 @@
             "id": 634649,
             "adult": false,
             "backdrop_path": "https://image.tmdb.org/t/p/original/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
-            "category":"main"
+            "category":"Netflix Originals"
         },
         {
             "vote_average": 8.0,
@@ -24,7 +24,7 @@
             "original_language": "en",
             "poster_path": "https://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg",
             "id": 414906,
-            "category":"main"
+            "category":"Netflix Originals"
         },
         {
             "overview": "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self on a mission to save the future.",
@@ -37,7 +37,7 @@
             "id": 696806,
             "vote_average": 7.0,
             "title": "The Adam Project",
-            "category":"main"
+            "category":"Netflix Originals"
         },
         {
             "vote_average": 7.6,
@@ -50,7 +50,7 @@
             "original_language": "en",
             "poster_path": "https://image.tmdb.org/t/p/original/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
             "title": "Turning Red",
-            "category":"main"
+            "category":"Netflix Originals"
         },
         {
             "poster_path": "https://image.tmdb.org/t/p/original/aq4Pwv5Xeuvj6HZKtxyd23e6bE9.jpg",
@@ -63,7 +63,7 @@
             "id": 476669,
             "title": "The King's Man",
             "original_language": "en",
-            "category":"main"
+            "category":"Netflix Originals"
         },
         {
             "original_language": "en",
@@ -76,7 +76,7 @@
             "adult": false,
             "backdrop_path": "https://image.tmdb.org/t/p/original/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
             "id": 646385,
-            "category":"main"
+            "category":"Netflix Originals"
         },
         {
             "overview": "Travis Block is a shadowy Government agent who specializes in removing operatives whose covers have been exposed. He then has to uncover a deadly conspiracy within his own ranks that reaches the highest echelons of power.",
@@ -89,7 +89,7 @@
             "vote_count": 110,
             "vote_average": 5.2,
             "id": 823625,
-            "category":"main"
+            "category":"Netflix Originals"
         },
         {
             "overview": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
@@ -102,12 +102,12 @@
             "vote_count": 609,
             "vote_average": 7.3,
             "release_date": "2021-12-08",
-            "category":"main"
+            "category":"Netflix Originals"
         },
         {
             "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
             "first_air_date": "2019-06-16",
-            "name": "Euphoria",
+            "title": "Euphoria",
             "backdrop_path": "https://image.tmdb.org/t/p/original/oKt4J3TFjWirVwBqoHyIvv5IImd.jpg",
             "original_language": "en",
             "vote_count": 7330,
@@ -119,7 +119,7 @@
             "vote_average": 8.4,
             "poster_path": "https://image.tmdb.org/t/p/original/jtnfNzqZwN4E32FGGxx1YZaBWWf.jpg",
             "media_type": "tv",
-            "category":"main"
+            "category":"Netflix Originals"
         },
         {
             "adult": false,
@@ -132,7 +132,7 @@
             "vote_count": 54,
             "overview": "An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend's funeral.",
             "id": 626735,
-            "category":"main"
+            "category":"Netflix Originals"
         },
         {
             "original_language": "en",
@@ -146,10 +146,10 @@
             ],
             "vote_count": 83,
             "id": 116135,
-            "name": "Vikings: Valhalla",
+            "title": "Vikings: Valhalla",
             "backdrop_path": "https://image.tmdb.org/t/p/original/k47JEUTQsSMN532HRg6RCzZKBdB.jpg",
             "media_type": "tv",
-            "category":"main"
+            "category":"Netflix Originals"
         },
         {
             "vote_average": 7.1,
@@ -162,7 +162,7 @@
             "original_language": "en",
             "poster_path": "https://image.tmdb.org/t/p/original/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg",
             "id": 597208,
-            "category":"main"
+            "category":"Netflix Originals"
         },
         {
             "original_language": "en",
@@ -175,7 +175,7 @@
             "backdrop_path": "https://image.tmdb.org/t/p/original/bnMKMhGJuvELSjRp8KpkuDsBDw2.jpg",
             "title": "Against the Ice",
             "id": 836009,
-            "category":"main"
+            "category":"Netflix Originals"
         },
         {
             "original_language": "en",
@@ -188,7 +188,7 @@
             "adult": false,
             "backdrop_path": "https://image.tmdb.org/t/p/original/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
             "id": 568124,
-            "category":"main"
+            "category":"Netflix Originals"
         },
         {
             "original_language": "en",
@@ -201,7 +201,7 @@
             "adult": false,
             "backdrop_path": "https://image.tmdb.org/t/p/original/eNI7PtK6DEYgZmHWP9gQNuff8pv.jpg",
             "id": 624860,
-            "category":"main"
+            "category":"Netflix Originals"
         },
         {
             "overview": "Stranded at a rest stop in the mountains during a blizzard, a recovering addict discovers a kidnapped child hidden in a car belonging to one of the people inside the building which sets her on a terrifying struggle to identify who among them is the kidnapper.",
@@ -214,7 +214,7 @@
             "vote_count": 202,
             "vote_average": 6.5,
             "title": "No Exit",
-            "category":"main"
+            "category":"Netflix Originals"
         },
         {
             "vote_average": 7.1,
@@ -227,7 +227,7 @@
             "poster_path": "https://image.tmdb.org/t/p/original/sqLowacltbZLoCa4KYye64RvvdQ.jpg",
             "id": 335787,
             "title": "Uncharted",
-            "category":"main"
+            "category":"Netflix Originals"
         },
         {
             "original_language": "en",
@@ -240,12 +240,12 @@
             "adult": false,
             "backdrop_path": "https://image.tmdb.org/t/p/original/oVv5l6L5Wi5j3gd4P2vt0YvVMOg.jpg",
             "id": 787752,
-            "category":"suspense"
+            "category":"Suspense"
         },
         {
             "vote_average": 8.2,
             "id": 63333,
-            "name": "The Last Kingdom",
+            "title": "The Last Kingdom",
             "backdrop_path": "https://image.tmdb.org/t/p/original/QbtctI8EzlhsyFDMUMyG3fli8B.jpg",
             "vote_count": 1019,
             "poster_path": "https://image.tmdb.org/t/p/original/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
@@ -257,12 +257,12 @@
                 "GB"
             ],
             "media_type": "tv",
-            "category":"suspense"
+            "category":"Suspense"
         },
         {
             "id": 95396,
             "overview": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
-            "name": "Severance",
+            "title": "Severance",
             "vote_count": 19,
             "vote_average": 7.7,
             "backdrop_path": "https://image.tmdb.org/t/p/original/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
@@ -274,7 +274,7 @@
             ],
             "poster_path": "https://image.tmdb.org/t/p/original/lFf6LLrQjYldcZItzOkGmMMigP7.jpg",
             "media_type": "tv",
-            "category":"suspense"
+            "category":"Suspense"
         },
 
 
@@ -297,7 +297,7 @@
             "title": "Eternals",
             "popularity": 1481.698,
             "media_type": "movie",
-            "category":"suspense"
+            "category":"Suspense"
         },
         {
             "backdrop_path": "https://image.tmdb.org/t/p/original/yvKrycViRMQcIgdnjsM5JGNWU4Q.jpg",
@@ -306,7 +306,7 @@
                 16,
                 10759
             ],
-            "name": "Attack on Titan",
+            "title": "Attack on Titan",
             "original_name": "進撃の巨人",
             "origin_country": [
                 "JP"
@@ -320,7 +320,7 @@
             "id": 1429,
             "popularity": 231.177,
             "media_type": "tv",
-            "category":"suspense"
+            "category":"Suspense"
         },
         {
             "release_date": "2022-01-06",
@@ -341,7 +341,7 @@
             "overview": "A man ahead of his time, Cyrano de Bergerac dazzles whether with ferocious wordplay at a verbal joust or with brilliant swordplay in a duel. But, convinced that his appearance renders him unworthy of the love of a devoted friend, the luminous Roxanne, Cyrano has yet to declare his feelings for her—and Roxanne has fallen in love, at first sight, with Christian.",
             "popularity": 113.548,
             "media_type": "movie",
-            "category":"suspense"
+            "category":"Suspense"
         },
         {
             "overview": "In this sequel, influencers looking to breathe new life into a Texas ghost town encounter Leatherface, an infamous killer who wears a mask of human skin.",
@@ -362,12 +362,12 @@
             "poster_path": "https://image.tmdb.org/t/p/original/meRIRfADEGVo65xgPO6eZvJ0CRG.jpg",
             "popularity": 1368.573,
             "media_type": "movie",
-            "category":"suspense"
+            "category":"Suspense"
         },
         {
             "id": 60574,
             "overview": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
-            "name": "Peaky Blinders",
+            "title": "Peaky Blinders",
             "vote_count": 5643,
             "vote_average": 8.6,
             "backdrop_path": "https://image.tmdb.org/t/p/original/hI5h8o3bbZlZwnySEs6rL7pXH32.jpg",
@@ -384,7 +384,7 @@
             "poster_path": "https://image.tmdb.org/t/p/original/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
             "popularity": 2355.664,
             "media_type": "tv",
-            "category":"suspense"
+            "category":"Suspense"
         },
         {
             "genre_ids": [
@@ -403,11 +403,11 @@
             "origin_country": [
                 "US"
             ],
-            "name": "The Walking Dead",
+            "title": "The Walking Dead",
             "backdrop_path": "https://image.tmdb.org/t/p/original/wvdWb5kTQipdMDqCclC6Y3zr4j3.jpg",
             "popularity": 1661.759,
             "media_type": "tv",
-            "category":"suspense"
+            "category":"Suspense"
         },
         {
             "backdrop_path": "https://image.tmdb.org/t/p/original/jQGdWUAtcAZBeqCCKZGqLPm0JVu.jpg",
@@ -415,7 +415,7 @@
                 16,
                 10759
             ],
-            "name": "The Boys Presents: Diabolical",
+            "title": "The Boys Presents: Diabolical",
             "original_language": "en",
             "original_name": "The Boys Presents: Diabolical",
             "origin_country": [
@@ -429,7 +429,7 @@
             "poster_path": "https://image.tmdb.org/t/p/original/kZKfZWwFOAicgoKS2IO7oM1GuHZ.jpg",
             "popularity": 219.3,
             "media_type": "tv",
-            "category": "drama"
+            "category": "Drama"
         },
         {
             "adult": false,
@@ -451,7 +451,7 @@
             "vote_count": 23,
             "popularity": 40.468,
             "media_type": "movie",
-            "category": "drama"
+            "category": "Drama"
         },
         {
             "genre_ids": [
@@ -472,14 +472,14 @@
             "title": "Dune",
             "popularity": 432.367,
             "media_type": "movie",
-            "category": "drama"
+            "category": "Drama"
         },
         {
             "original_language": "en",
             "original_name": "Pieces of Her",
             "id": 99002,
             "vote_average": 7.5,
-            "name": "Pieces of Her",
+            "title": "Pieces of Her",
             "overview": "An act of violence rocks a sleepy Georgia town as well as the bond between a mother and her daughter.",
             "vote_count": 23,
             "poster_path": "https://image.tmdb.org/t/p/original/yPTlbfrDv9asnHlCCd3XzM5noF1.jpg",
@@ -495,7 +495,7 @@
             ],
             "popularity": 88.038,
             "media_type": "tv",
-            "category": "drama"
+            "category": "Drama"
         },
         {
             "overview": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.",
@@ -515,10 +515,10 @@
             "poster_path": "https://image.tmdb.org/t/p/original/wrCVHdkBlBWdJUZPvnJWcBRuhSY.jpg",
             "vote_count": 3695,
             "vote_average": 8.8,
-            "name": "Demon Slayer: Kimetsu no Yaiba",
+            "title": "Demon Slayer: Kimetsu no Yaiba",
             "popularity": 198.948,
             "media_type": "tv",
-            "category": "drama"
+            "category": "Drama"
         },
         {
             "poster_path": "https://image.tmdb.org/t/p/original/6SIDIB59JYsQ8EfUgM0IaFfwXtS.jpg",
@@ -527,7 +527,7 @@
             "origin_country": [
                 "US"
             ],
-            "name": "Upload",
+            "title": "Upload",
             "vote_count": 718,
             "overview": "In 2033, people who are near death can be “uploaded” into virtual reality hotels run by 6 tech firms. Cash-strapped Nora lives in Brooklyn and works customer service for the luxurious “Lakeview” digital afterlife. When L.A. party-boy/coder Nathan’s self-driving car crashes, his high-maintenance girlfriend uploads him permanently into Nora’s VR world.",
             "backdrop_path": "https://image.tmdb.org/t/p/original/2fhnFgwbpqzhNsx5m9x7JEUQ2qv.jpg",
@@ -540,7 +540,7 @@
             "original_language": "en",
             "popularity": 210.787,
             "media_type": "tv",
-            "category": "drama"
+            "category": "Drama"
         },
         {
             "title": "The Pirates: The Last Royal Treasure",
@@ -563,7 +563,7 @@
             "id": 591120,
             "popularity": 1036.096,
             "media_type": "movie",
-            "category": "drama"
+            "category": "Drama"
         },
         {
             "video": false,
@@ -586,7 +586,7 @@
             "title": "Sing 2",
             "popularity": 1314.79,
             "media_type": "movie",
-            "category": "drama"
+            "category": "Drama"
         },
         {
             "vote_average": 6.8,
@@ -608,14 +608,14 @@
             "video": false,
             "popularity": 354.059,
             "media_type": "movie",
-            "category": "drama"
+            "category": "Drama"
         },
         {
             "id": 85949,
             "first_air_date": "2020-01-23",
             "vote_average": 7.3,
             "overview": "Set twenty years after the events of Star Trek Nemesis, we follow the now-retired Admiral Picard into the next chapter of his life.",
-            "name": "Star Trek: Picard",
+            "title": "Star Trek: Picard",
             "vote_count": 1165,
             "poster_path": "https://image.tmdb.org/t/p/original/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg",
             "backdrop_path": "https://image.tmdb.org/t/p/original/mK286PAkhgLJqk5cO0BCmFLkNE7.jpg",
@@ -630,7 +630,7 @@
             "original_language": "en",
             "popularity": 152.732,
             "media_type": "tv",
-            "category": "drama"
+            "category": "Drama"
         },
         {
             "vote_average": 7.1,
@@ -651,7 +651,7 @@
             "title": "Licorice Pizza",
             "popularity": 66.354,
             "media_type": "movie",
-            "category": "drama"
+            "category": "Drama"
         },
         {
             "vote_average": 5.9,
@@ -672,7 +672,7 @@
             "title": "The Weekend Away",
             "popularity": 1114.854,
             "media_type": "movie",
-            "category":"thriller"
+            "category": "Thriller"
         },
         {
             "vote_average": 6.3,
@@ -692,7 +692,7 @@
             "video": false,
             "popularity": 1621.576,
             "media_type": "movie",
-            "category":"thriller"
+            "category": "Thriller"
         },
         {
             "vote_average": 7.7,
@@ -714,7 +714,7 @@
             "title": "Ghostbusters: Afterlife",
             "popularity": 944.786,
             "media_type": "movie",
-            "category":"thriller"
+            "category": "Thriller"
         },
         {
             "overview": "When his young daughter's beloved companion — an android named Yang — malfunctions, Jake searches for a way to repair him. In the process, Jake discovers the life that has been passing in front of him, reconnecting with his wife and daughter across a distance he didn't know was there.",
@@ -735,7 +735,7 @@
             "title": "After Yang",
             "popularity": 38.331,
             "media_type": "movie",
-            "category":"thriller"
+            "category": "Thriller"
         },
         {
             "video": false,
@@ -756,7 +756,7 @@
             "poster_path": "https://image.tmdb.org/t/p/original/uQt2dJFMnJmAp9zLAWNfGilK0BW.jpg",
             "popularity": 871.645,
             "media_type": "movie",
-            "category":"thriller"
+            "category": "Thriller"
         },
         {
             "vote_average": 5.9,
@@ -778,7 +778,7 @@
             "title": "Restless",
             "popularity": 2261.57,
             "media_type": "movie",
-            "category":"thriller"
+            "category": "Thriller"
         },
         {
             "video": false,
@@ -800,7 +800,7 @@
             "title": "Marry Me",
             "popularity": 877.875,
             "media_type": "movie",
-            "category":"thriller"
+            "category": "Thriller"
         },
         {
             "vote_average": 8.5,
@@ -809,7 +809,7 @@
             "origin_country": [
                 "US"
             ],
-            "name": "Peacemaker",
+            "title": "Peacemaker",
             "backdrop_path": "https://image.tmdb.org/t/p/original/ctxm191q5o3axFzQsvNPlbKoSYv.jpg",
             "genre_ids": [
                 10759,
@@ -823,7 +823,7 @@
             "overview": "The continuing story of Peacemaker – a compellingly vainglorious man who believes in peace at any cost, no matter how many people he has to kill to get it – in the aftermath of the events of “The Suicide Squad.”",
             "popularity": 820.266,
             "media_type": "tv",
-            "category":"thriller"
+            "category": "Thriller"
         },
         {
             "adult": false,
@@ -845,7 +845,7 @@
             "id": 370172,
             "popularity": 455.019,
             "media_type": "movie",
-            "category":"thriller"
+            "category": "Thriller"
         },
         {
             "adult": false,
@@ -868,7 +868,7 @@
             "vote_count": 579,
             "popularity": 183.21,
             "media_type": "movie",
-            "category":"thriller"
+            "category": "Thriller"
         },
         {
             "vote_average": 7.1,
@@ -890,7 +890,7 @@
             "video": false,
             "popularity": 1244.181,
             "media_type": "movie",
-            "category": "comedy"
+            "category": "Comedy"
         },
         {
             "id": 890656,
@@ -912,12 +912,12 @@
             "title": "Fistful of Vengeance",
             "popularity": 1522.538,
             "media_type": "movie",
-            "category": "comedy"
+            "category": "Comedy"
         },
         {
             "vote_average": 8.4,
             "id": 1399,
-            "name": "Game of Thrones",
+            "title": "Game of Thrones",
             "backdrop_path": "https://image.tmdb.org/t/p/original/suopoADq0k8YZr4dQXcU6pToj6s.jpg",
             "vote_count": 17446,
             "genre_ids": [
@@ -935,7 +935,7 @@
             "original_language": "en",
             "popularity": 603.678,
             "media_type": "tv",
-            "category": "comedy"
+            "category": "Comedy"
         },
         {
             "title": "Tyler Perry's A Madea Homecoming",
@@ -955,7 +955,7 @@
             "poster_path": "https://image.tmdb.org/t/p/original/vzX5GNRTXsAltdU1tfASmZbzYmv.jpg",
             "popularity": 565.64,
             "media_type": "movie",
-            "category": "comedy"
+            "category": "Comedy"
         },
         {
             "backdrop_path": "https://image.tmdb.org/t/p/original/wAJQcqlZkLmtLFKohxMFrcEDUtw.jpg",
@@ -969,7 +969,7 @@
             "origin_country": [
                 "US"
             ],
-            "name": "Raised by Wolves",
+            "title": "Raised by Wolves",
             "vote_count": 975,
             "first_air_date": "2020-09-03",
             "vote_average": 7.7,
@@ -977,11 +977,11 @@
             "original_language": "en",
             "popularity": 282.548,
             "media_type": "tv",
-            "category": "comedy"
+            "category": "Comedy"
         },
         {
             "poster_path": "https://image.tmdb.org/t/p/original/oR0PM7hFDqY3kO12cLLQMKiJt8I.jpg",
-            "name": "Outlander",
+            "title": "Outlander",
             "overview": "The story of Claire Randall, a married combat nurse from 1945 who is mysteriously swept back in time to 1743, where she is immediately thrown into an unknown world where her life is threatened. When she is forced to marry Jamie, a chivalrous and romantic young Scottish warrior, a passionate affair is ignited that tears Claire's heart between two vastly different men in two irreconcilable lives.",
             "vote_count": 2001,
             "original_name": "Outlander",
@@ -999,7 +999,7 @@
             "id": 56570,
             "popularity": 368.15,
             "media_type": "tv",
-            "category": "comedy"
+            "category": "Comedy"
         },
         {
             "vote_average": 8.2,
@@ -1008,7 +1008,7 @@
             "origin_country": [
                 "US"
             ],
-            "name": "The Book of Boba Fett",
+            "title": "The Book of Boba Fett",
             "backdrop_path": "https://image.tmdb.org/t/p/original/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg",
             "genre_ids": [
                 10759,
@@ -1021,7 +1021,7 @@
             "overview": "Legendary bounty hunter Boba Fett and mercenary Fennec Shand must navigate the galaxy’s underworld when they return to the sands of Tatooine to stake their claim on the territory once ruled by Jabba the Hutt and his crime syndicate.",
             "popularity": 539.87,
             "media_type": "tv",
-            "category": "comedy"
+            "category": "Comedy"
         },
         {
             "genre_ids": [
@@ -1043,7 +1043,7 @@
             "title": "Avengers: Endgame",
             "popularity": 220.338,
             "media_type": "movie",
-            "category": "comedy"
+            "category": "Comedy"
         },
         {
             "first_air_date": "2017-05-02",
@@ -1051,7 +1051,7 @@
             "vote_count": 16162,
             "vote_average": 8.3,
             "backdrop_path": "https://image.tmdb.org/t/p/original/gFZriCkpJYsApPZEF3jhxL4yLzG.jpg",
-            "name": "Money Heist",
+            "title": "Money Heist",
             "genre_ids": [
                 80,
                 18
@@ -1065,7 +1065,7 @@
             "original_language": "es",
             "popularity": 320.633,
             "media_type": "tv",
-            "category": "comedy"
+            "category": "Comedy"
         },
         {
             "genre_ids": [
@@ -1085,7 +1085,7 @@
             "backdrop_path": "https://image.tmdb.org/t/p/original/4KLlHifB1kgMtWl3YnY8JinOj65.jpg",
             "popularity": 73.12,
             "media_type": "movie",
-            "category": "comedy"
+            "category": "Comedy"
         },
         {
             "original_title": "ドライブ・マイ・カー",
@@ -1105,7 +1105,7 @@
             "original_language": "ja",
             "popularity": 62.02,
             "media_type": "movie",
-            "category": "comedy"
+            "category": "Comedy"
         },
         {
             "vote_average": 7.2,
@@ -1120,14 +1120,14 @@
                 10765,
                 10759
             ],
-            "name": "Star Trek: Discovery",
+            "title": "Star Trek: Discovery",
             "id": 67198,
             "original_language": "en",
             "poster_path": "https://image.tmdb.org/t/p/original/zh7GLsorxecv0D8d7QAVkQUe1ju.jpg",
             "original_name": "Star Trek: Discovery",
             "popularity": 233.163,
             "media_type": "tv",
-            "category": "comedy"
+            "category": "Comedy"
         },
         {
             "genre_ids": [
@@ -1144,12 +1144,12 @@
             ],
             "overview": "Years ago, the fearsome pirate king Gol D. Roger was executed, leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new pirate king. Monkey D. Luffy, a boy who consumed a \"Devil's Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way. Luffy will do anything to get the One Piece and become King of the Pirates!",
             "vote_average": 8.8,
-            "name": "One Piece",
+            "title": "One Piece",
             "id": 37854,
             "first_air_date": "1999-10-20",
             "backdrop_path": "https://image.tmdb.org/t/p/original/a6ptrTUH1c5OdWanjyYtAkOuYD0.jpg",
             "popularity": 118.388,
             "media_type": "tv",
-            "category": "comedy"
+            "category": "Comedy"
         }
     ]

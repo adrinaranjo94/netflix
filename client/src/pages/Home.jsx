@@ -6,10 +6,10 @@ import { MoviesService } from "../services/movies";
 
 export const Home = () => {
   const [categories, setCategories] = useState([
-    "main",
-    "drama",
-    "comedy",
-    "suspense",
+    "Netflix Originals",
+    "Drama",
+    "Comedy",
+    "Suspense",
   ]);
   const [moviesByCategory, setMoviesByCategory] = useAsyncState(null);
   const [loaded, setLoaded] = useState(false);
