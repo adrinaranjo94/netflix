@@ -18,7 +18,6 @@ export const Home = () => {
       addMoviesToCategory(category, [...responseData.data.movies]);
       if (index === arr.length - 1) {
         setInfoLoaded();
-        console.log(header);
       }
     });
   };
